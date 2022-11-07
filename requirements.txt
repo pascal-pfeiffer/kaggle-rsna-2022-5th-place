@@ -1,0 +1,9 @@
+albumentations
+segmentation-models-pytorch==0.3.0
+timm==0.6.11
+opencv-python==4.5.5.64
+transformers
+nibabel 
+pydicom 
+pylibjpeg 
+python_gdcm
